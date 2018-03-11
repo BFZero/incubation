@@ -1,0 +1,20 @@
+
+2.1	三方账户体系
+
+python实现微信第三方网站扫码登录(Django)：
+https://www.jianshu.com/p/e3c6fe7b2f9b
+
+
+Web应用多账号系统设计及微信扫码登录实现：
+https://www.cnblogs.com/beer/p/5538403.html
+
+
+Django使用Social-Auth实现微信第三方网站扫码登录
+https://segmentfault.com/a/1190000008701211?utm_source=tuicool&utm_medium=referral
+
+知乎：微信的网页版扫码登陆原理
+https://www.zhihu.com/question/22991085
+
+Python 实现扫码二维码登录
+https://www.cnblogs.com/pyxiaomangshe/p/7987429.html
+
